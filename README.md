@@ -1,37 +1,56 @@
-<h1 align="center">Hey there 👋, I'm Dhruv Raj Singh</h1>
+<div align="center">
+  <h1>Hey there 👋, I'm Dhruv Raj Singh</h1>
+  <p>
+    🎓 B.Tech in Information Technology @ KIIT, Bhubaneswar <br/>
+    👨‍💻 Full Stack Developer | MERN Stack | Tech Enthusiast <br/>
+    🚀 Building impactful, production-ready applications
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%7C+Open+Source+Contributor;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
-</p>
+---
 
-<p align="center">
-  🎓 B.Tech Information Technology @ <strong>KIIT, Bhubaneswar</strong> (Class of 2027) &nbsp;|&nbsp;
-  👨‍💻 Full Stack Developer &nbsp;|&nbsp;
-  🚀 Building impactful, production-ready apps
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/dhruvrajsingh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhruvrsingh2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dhruvsinghh2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/dhruvrajsingh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhruvrsingh2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhruvsinghh2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
 ## 🛠️ My Skills
 
-- **Languages:** Java, JavaScript, Python, SQL
-- **Web Development:** HTML, CSS, React.js, Node.js, Express.js, REST APIs
-- **Database Management:** MongoDB, MySQL
-- **Core Concepts:** SDLC, OOP, OS Fundamentals, Software Testing
-- **Tools & Platforms:** Git, GitHub, VS Code, RESTful APIs
+- **Languages**: Java, JavaScript, Python, SQL
+- **Web Development**: HTML, CSS, React.js, Node.js, Express.js, REST APIs
+- **Database Management**: MongoDB, MySQL
+- **Core Concepts**: SDLC, OOP, OS Fundamentals, Software Testing
+- **Tools & Platforms**: Git, GitHub, VS Code, RESTful APIs
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,sql,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode&perline=7" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -82,27 +101,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsinghh2005&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dhruvsinghh2005&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 👁️ Profile Views
+## 👁️ Profile Status
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvsinghh2005&label=Profile+Views&color=00b4d8&style=flat" />
+  <img src="https://img.shields.io/badge/Profile%20Views%20Status-Active-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Status" />
 </p>
 
 ---
 
 ## 🎯 Reach Me
 
-💌 **Email:** [dhruvrsingh2005@gmail.com](mailto:dhruvrsingh2005@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/dhruvrajsingh](https://linkedin.com/in/dhruvrajsingh)
-🐙 **GitHub:** [github.com/dhruvsinghh2005](https://github.com/dhruvsinghh2005)
-
----
-
 <p align="center">
-  <i>"Build things that matter. Ship fast. Learn faster."</i>
+  💌 <strong>Email:</strong> <a href="mailto:dhruvrsingh2005@gmail.com">dhruvrsingh2005@gmail.com</a>
 </p>
