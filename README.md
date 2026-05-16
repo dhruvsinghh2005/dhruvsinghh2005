@@ -57,7 +57,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏫 [CampusHive – Smart Campus Event Management System](https://github.com/dhruvsinghh2005)
+### 🏫 [CampusHive – Smart Campus Event Management System](https://campushive-frontend-c00s.onrender.com/)
 > **MERN Stack** | Feb 2026 – Mar 2026
 
 - End-to-end event management platform with React, Node.js/Express, and MongoDB
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏭 [Industrial Maintenance Management System](https://github.com/dhruvsinghh2005)
+### 🏭 [Industrial Maintenance Management System](https://safety-management-f.onrender.com/)
 > **React.js, JavaScript, REST APIs** | May 2024 – July 2024
 
 - Centralized web portal managing machines, maintenance tickets & safety incidents for **50+ workers**
