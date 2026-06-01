@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/dhruvrajsingh" target="_blank">
+  <a href="https://www.linkedin.com/in/dhruv-raj-singh-358691364/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dhruvrsingh2005@gmail.com" target="_blank">
