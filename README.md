@@ -29,7 +29,7 @@
 - **Web Development**: HTML, CSS, React.js, Node.js, Express.js, REST APIs
 - **Database Management**: MongoDB, MySQL
 - **Core Concepts**: SDLC, OOP, OS Fundamentals, Software Testing
-- **Tools & Platforms**: Git, GitHub, VS Code, RESTful APIs
+- **Tools & Platforms**: Git, GitHub, VS Code, RESTful APIs, AWS
 
 ---
 
